@@ -1,4 +1,6 @@
 # COVID-19-
+[Uploading COVID-19 in India Dashboard.pdf…]()
+
 
  Power BI dashboard that provides real-time insights into the COVID-19 situation in India. This dashboard is designed to keep you informed about the latest statistics and trends in a visually engaging and interactive manner.
 
