@@ -1,9 +1,9 @@
 # COVID-19 
 
+![Screenshot (290)](https://github.com/ShamTange/COVID-19-/assets/101647764/f4db1d08-178c-486c-9754-9828220d196c)
 
 
 
-![Uploading Screenshot (290).png…]()
 
  Power BI dashboard that provides real-time insights into the COVID-19 situation in India. This dashboard is designed to keep you informed about the latest statistics and trends in a visually engaging and interactive manner.
 
